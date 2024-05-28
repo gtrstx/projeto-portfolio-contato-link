@@ -1,0 +1,86 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 18%, rgba(115,115,115,1) 78%);
+}
+
+.texto {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'TenorSans';
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.texto .div-texto {
+    height: 50px;
+    width: 800px;
+    margin: 50px 0px 0px 0px;
+}
+
+.imagems{
+    width: 100%;
+    height: 800px;
+}
+
+.imagems .img-1 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: 200px 0px 0px 300px;
+    position: absolute;
+}
+
+.imagems .img-1 .imagem-1 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.imagems .img-2 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: 200px 0px 0px 650px;
+    position: absolute;
+}
+
+.imagems .img-2 .imagem-2 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+.imagems .img-3 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: 200px 0px 0px 1000px;
+    position: absolute;
+}
+
+.imagems .img-3 .imagem-3 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+}
+
+.imagems .img-4 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: 200px 0px 0px 1350px;
+    position: absolute;
+}
+
+.imagems .img-4 .imagem-4 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
